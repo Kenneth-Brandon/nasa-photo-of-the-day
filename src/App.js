@@ -6,7 +6,7 @@ import styled from "styled-components";
 
 const H1 = styled.h1`
   font-family: script;
-  color: grey;
+  color: red;
 `;
 
 const Span = styled.span`

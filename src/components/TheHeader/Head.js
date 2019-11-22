@@ -2,26 +2,17 @@ import React from 'react';
 import Photo from '../MainContent/Photo';
 import styled from 'styled-components';
 
-
-
-
-
-
-
-
 const Button = styled.button`
-height: 3rem;
-width: 4rem;
-border-radius: 3rem;
-margin: 1rem;
+height: 30px;
+width: 10%;
+border-radius: 30px;
+margin: 0 50px;
 background: white;
 `;
 const Input = styled.input`
-border-radius:2rem;
-padding-left: 4rem;
+border-radius:30px;
+padding-left: 35px;
 `;
-
-
 
 export default function Header (props) {
   return (
