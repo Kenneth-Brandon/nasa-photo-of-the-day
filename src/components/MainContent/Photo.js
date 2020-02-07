@@ -25,6 +25,8 @@ const Paragraph = styled.p`
 const H2 = styled.h2`
   color: red;
   font-family: LuckiestGuy-Regular;
+  font-size: 3rem;
+  margin: 50px 0px 50px 0px;
 `;
 
 export default function Photo(props) {

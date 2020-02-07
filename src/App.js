@@ -6,6 +6,7 @@ import styled from "styled-components";
 
 const H1 = styled.h1`
   font-family: LuckiestGuy-Regular;
+  font-size: 5rem;
   color: red;
   background-color: white;
 `;
