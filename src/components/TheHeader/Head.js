@@ -6,14 +6,16 @@ const Button = styled.button`
   height: 30px;
   width: 10%;
   border-radius: 30px;
+  border: 2px solid black;
   margin: 50px;
   background: white;
   font-family: NotoSerifJP-Medium;
 `;
 const Input = styled.input`
   border-radius: 30px;
-  padding-left: 35px;
-  align-text: center;
+  border: 2px solid black;
+  padding-left: 50px;
+  text-align: center;
   font-family: NotoSerifJP-Medium;
 `;
 
