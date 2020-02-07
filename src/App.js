@@ -5,13 +5,15 @@ import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 
 const H1 = styled.h1`
-  font-family: script;
+  font-family: LuckiestGuy-Regular;
   color: red;
+  background-color: white;
 `;
 
 const Span = styled.span`
   font-weight: bold;
   padding-bottom: 5rem;
+  background-color: white;
 `;
 function App() {
   const apiKey = "LWqkJeogF0XlRhW24JU14v9sfWMelIH0BS97ldGZ";
