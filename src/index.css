@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+@font-face {
+  font-family: "LuckiestGuy-Regular";
+  src: local("LuckiestGuy-Regular"),
+    url(./font/LuckiestGuy-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "NotoSerifJP-Medium";
+  src: local("NotoSerifJP-Medium"),
+    url(./font/NotoSerifJP-Medium.otf) format(NotoSerifJP-Medium);
+}
